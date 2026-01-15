@@ -1,0 +1,27 @@
+{
+  "version": "3.103.35301.0",
+  "course_id": "5rHdVqhWZko",
+  "title": "Crop Factor",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5ZNCkQnhMIQ",
+      "title": "Full Frame",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 583
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
